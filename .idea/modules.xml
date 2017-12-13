@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hunachiKtor.iml" filepath="$PROJECT_DIR$/.idea/modules/hunachiKtor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hunachiKtor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hunachiKtor_main.iml" group="hunachiKtor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hunachiKtor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hunachiKtor_test.iml" group="hunachiKtor" />
+    </modules>
+  </component>
+</project>
